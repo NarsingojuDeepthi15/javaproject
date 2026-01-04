@@ -18,6 +18,7 @@ public class StudentGrade {
         } else {
             System.out.println("First class");
         }
+        sc.close();
     }
 
 }

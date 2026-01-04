@@ -11,6 +11,7 @@ public class EvenorOdd {
         } else {
             System.out.println("Given number is Odd");
         }
+        sc.close();
     }
 
 }

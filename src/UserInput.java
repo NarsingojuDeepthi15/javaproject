@@ -10,6 +10,7 @@ public class UserInput {
         System.out.println("What is your age?");
         int age = sc.nextInt();
         System.out.println("Thank you for the information");
+        sc.close();
     }
 
 }
